@@ -1,0 +1,158 @@
+вокзалаль»
+{
+  "country": "Україна",
+  "iso": "UA",
+  "region": {
+    "name": "Київська область",
+    "type": "oblast",
+    "code": "UA-32",
+    "cities": [
+      {
+        "name": "Біла Церква",
+        "type": "city",
+        "population": 210000,
+        "gps": { "lat": 49.790, "lon": 30.115 },
+        "railway_stations": [
+          {
+            "name": "Біла Церква",
+            "type": "пасажирський",
+            "address": "вул. Станційна, 1",
+            "gps": { "lat": 49.791, "lon": 30.117 }
+          }
+        ]
+      },
+      {
+        "name": "Бровари",
+        "type": "city",
+        "population": 102000,
+        "gps": { "lat": 50.512, "lon": 30.786 },
+        "railway_stations": [
+          {
+            "name": "Бровари",
+            "type": "пасажирський",
+            "address": "вул. Гагаріна, 2",
+            "gps": { "lat": 50.513, "lon": 30.789 }
+          }
+        ]
+      },
+      {
+        "name": "Бориспіль",
+        "type": "city",
+        "population": 61000,
+        "gps": { "lat": 50.345, "lon": 30.956 },
+        "railway_stations": [
+          {
+            "name": "Бориспіль",
+            "type": "пасажирський",
+            "address": "вул. Льотна / залізнична платформа",
+            "gps": { "lat": 50.343, "lon": 30.958 }
+          }
+        ]
+      },
+      {
+        "name": "Фастів",
+        "type": "city",
+        "population": 46000,
+        "gps": { "lat": 50.073, "lon": 29.905 },
+        "railway_stations": [
+          {
+            "name": "Фастів",
+            "type": "пасажирський/вантажний",
+            "address": "вул. Вокзальна, 1",
+            "gps": { "lat": 50.074, "lon": 29.904 }
+          },
+          {
+            "name": "Фастів-ІІ (пологи)",
+            "type": "вантажний",
+            "address": null,
+            "gps": null
+          }
+        ]
+      },
+      {
+        "name": "Ірпінь",
+        "type": "city",
+        "population": 61000,
+        "gps": { "lat": 50.521, "lon": 30.255 },
+        "railway_stations": [
+          {
+            "name": "Ірпінь",
+            "type": "пасажирський",
+            "address": "вул. Центральна",
+            "gps": { "lat": 50.520, "lon": 30.257 }
+          }
+        ]
+      },
+      {
+        "name": "Васильків",
+        "type": "city",
+        "population": 35000,
+        "gps": { "lat": 49.983, "lon": 30.403 },
+        "railway_stations": [
+          {
+            "name": "Васильків-1",
+            "type": "пасажирський",
+            "address": "вул. Привокзальна",
+            "gps": { "lat": 49.984, "lon": 30.405 }
+          }
+        ]
+      },
+      {
+        "name": "Обухів",
+        "type": "city",
+        "population": 33000,
+        "gps": { "lat": 50.083, "lon": 30.483 },
+        "railway_stations": [
+          {
+            "name": "Обухів",
+            "type": "пасажирський",
+            "address": "вул. Вокзальна",
+            "gps": { "lat": 50.084, "lon": 30.485 }
+          }
+        ]
+      },
+      {
+        "name": "Переяслав (Переяслав-Хмельницький)",
+        "type": "city",
+        "population": 28000,
+        "gps": { "lat": 50.070, "lon": 31.449 },
+        "railway_stations": [
+          {
+            "name": "Переяслав",
+            "type": "пасажирський",
+            "address": null,
+            "gps": { "lat": 50.071, "lon": 31.452 }
+          }
+        ]
+      },
+      {
+        "name": "Миронівка",
+        "type": "city",
+        "population": 11000,
+        "gps": { "lat": 49.946, "lon": 30.908 },
+        "railway_stations": [
+          {
+            "name": "Миронівка",
+            "type": "пасажирський/вантажний",
+            "address": "вул. Залізнична",
+            "gps": { "lat": 49.946, "lon": 30.909 }
+          }
+        ]
+      },
+      {
+        "name": "Яготин",
+        "type": "city",
+        "population": 17000,
+        "gps": { "lat": 50.353, "lon": 31.809 },
+        "railway_stations": [
+          {
+            "name": "Яготин",
+            "type": "пасажирський",
+            "address": "вул. Станційна",
+            "gps": { "lat": 50.354, "lon": 31.810 }
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
